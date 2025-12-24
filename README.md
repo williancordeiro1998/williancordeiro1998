@@ -82,7 +82,7 @@ Here are some of the complex systems I've architected recently:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=williancordeiro1998&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Willian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=williancordeiro1998&show_icons=true&theme=tokyonight&hide_border=true" alt="Willian's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancordeiro1998&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
