@@ -2,7 +2,6 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Willian+Cordeiro!;" />
-</h1>
 <h3 align="center">Software Architect | Full-Stack Developer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
@@ -25,7 +24,7 @@ I am a **Software Architect** and **Full-Stack Developer** from Brazil, focused 
 
 Currently, I am moving beyond simple CRUDs to solve complex engineering problems like **Data Concurrency (ACID)**, **Autonomous Cyber Defense**, and **Real-time Synchronization**.
 
-* 🔭 **I’m currently working on:** ???.
+* 🔭 **I’m currently working on:** Autonomous Cyber Defense Systems (ACD-AI) using AWS & Gemini Pro.
 * 🌱 **I’m currently deepening my knowledge in:** Event-Driven Architecture, Row-Level Security (RLS), and LLM Agents.
 * ⚡ **Philosophy:** "Code performance and User Experience must go hand in hand."
 
@@ -106,9 +105,8 @@ Here are some of the complex systems I've architected recently:
   
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=williancordeiro1998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="General Stats" height="180" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancordeiro1998&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" alt="Top Langs" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=williancordeiro1998&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=williancordeiro1998&theme=tokyonight" alt="Repos per Language" />
 </div>
 
 <p align="center">
