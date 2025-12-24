@@ -3,7 +3,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Willian+Cordeiro!;" />
 </h1>
-<h1 align="center">Hi there, I'm Willian Cordeiro 👋</h1>
 <h3 align="center">Software Architect | Full-Stack Developer | Cloud & AI Enthusiast</h3>
 
 <p align="center">
@@ -26,7 +25,7 @@ I am a **Software Architect** and **Full-Stack Developer** from Brazil, focused 
 
 Currently, I am moving beyond simple CRUDs to solve complex engineering problems like **Data Concurrency (ACID)**, **Autonomous Cyber Defense**, and **Real-time Synchronization**.
 
-* 🔭 **I’m currently working on:** Autonomous Cyber Defense Systems (ACD-AI) using AWS & Gemini Pro.
+* 🔭 **I’m currently working on:** ???.
 * 🌱 **I’m currently deepening my knowledge in:** Event-Driven Architecture, Row-Level Security (RLS), and LLM Agents.
 * ⚡ **Philosophy:** "Code performance and User Experience must go hand in hand."
 
@@ -36,11 +35,32 @@ Currently, I am moving beyond simple CRUDs to solve complex engineering problems
 
 Here are some of the complex systems I've architected recently:
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **ACD-AI** | **Autonomous Cyber Defense System.** A serverless platform that orchestrates security responses using AWS Step Functions and Google Gemini Pro to classify and mitigate threats automatically (Dry-Run mode). | Python, AWS Lambda, Step Functions, Gemini Pro |
-| **Neon Merch** | **Headless High-Performance E-commerce.** Solves real-world stock concurrency issues using ACID transactions. Features a decoupled frontend and robust API management. | FastAPI, Next.js 14, PostgreSQL, Zustand |
-| **Arcane Tasks** | **Distributed Task Manager.** A real-time collaboration tool using Optimistic Concurrency and Row-Level Security (RLS) for multi-tenant data integrity. | Node.js, Fastify, PostgreSQL (RLS), React |
+<table>
+  <thead>
+    <tr>
+      <th width="20%">Project</th>
+      <th width="50%">Description</th>
+      <th width="30%">Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>ACD-AI</b></td>
+      <td><b>Autonomous Cyber Defense System.</b> A serverless platform that orchestrates security responses using AWS Step Functions and Google Gemini Pro to classify and mitigate threats automatically (Dry-Run mode).</td>
+      <td>Python, AWS Lambda, Step Functions, Gemini Pro</td>
+    </tr>
+    <tr>
+      <td><b>Neon Merch</b></td>
+      <td><b>Headless High-Performance E-commerce.</b> Solves real-world stock concurrency issues using ACID transactions. Features a decoupled frontend and robust API management.</td>
+      <td>FastAPI, Next.js 14, PostgreSQL, Zustand</td>
+    </tr>
+    <tr>
+      <td><b>Arcane Tasks</b></td>
+      <td><b>Distributed Task Manager.</b> A real-time collaboration tool using Optimistic Concurrency and Row-Level Security (RLS) for multi-tenant data integrity.</td>
+      <td>Node.js, Fastify, PostgreSQL (RLS), React</td>
+    </tr>
+  </tbody>
+</table>
 
 <br>
 
@@ -82,11 +102,13 @@ Here are some of the complex systems I've architected recently:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williancordeiro1998&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williancordeiro1998&theme=tokyonight&hide_border=true" alt="Streak Stats" />
   
   <br><br>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=williancordeiro1998&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=williancordeiro1998&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&v=2" alt="General Stats" height="180" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williancordeiro1998&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&v=2" alt="Top Langs" height="180" />
 </div>
 
 <p align="center">
