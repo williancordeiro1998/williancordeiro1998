@@ -82,11 +82,11 @@ Here are some of the complex systems I've architected recently:
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=williancordeiro1998&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <br><br>
 
-[![Willian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=williancordeiro1998&show_icons=true&theme=tokyonight&hide_border=true&t=1)](https://github.com/williancordeiro1998)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williancordeiro1998&layout=compact&theme=tokyonight&hide_border=true&t=1)](https://github.com/williancordeiro1998)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=williancordeiro1998&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
 </div>
 
 <p align="center">
