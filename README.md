@@ -24,7 +24,7 @@ I am a **Software Architect** and **Full-Stack Developer** from Brazil, focused 
 
 Currently, I am moving beyond simple CRUDs to solve complex engineering problems like **Data Concurrency (ACID)**, **Autonomous Cyber Defense**, and **Real-time Synchronization**.
 
-* 🔭 **I’m currently working on:** Autonomous Cyber Defense Systems (ACD-AI) using AWS & Gemini Pro.
+* 🔭 **I’m currently working on:** Autonomous Cyber Defense Systems (ACD-AI) using AWS.
 * 🌱 **I’m currently deepening my knowledge in:** Event-Driven Architecture, Row-Level Security (RLS), and LLM Agents.
 * ⚡ **Philosophy:** "Code performance and User Experience must go hand in hand."
 
